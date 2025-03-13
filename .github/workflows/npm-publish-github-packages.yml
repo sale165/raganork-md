@@ -1,0 +1,10 @@
+1. Install nodejs, git, ffmpeg
+2. npm i -g yarn pm2
+3. git clone https://github.com/souravkl11/raganork-md && cd raganork-md
+4. yarn install --ignore-engines --network-concurrency 1
+5. vi config.env
+6. Enter your session there in format 'Raganork~c346251889aa2d8af3729fa7a7a0763f:51654c68417375427036553d'
+7. Press ctrl+c, then type ':wq' and press enter
+8. npm start
+
+Now the bot will start working
